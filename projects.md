@@ -2,8 +2,8 @@
 
 ## 🤖 AI/ML Projects
 1. **Azure AI Search Integration**
-   - Microsoft technologies integration POC
-   - Tech: Azure OpenAI, Power Platform, Teams
+   - Microsoft Azure AI technologies integration
+   - Tech: Azure OpenAI, Power Platform, Power Page, Power APPs
    [Learn More](#)
 
 2. **Intelligent Chatbot Platform**
