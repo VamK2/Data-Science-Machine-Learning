@@ -1,8 +1,6 @@
 ## Name: applied-ai-solutions
 ### Description: Production-ready End-to-end AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
 
-Here's the modified README with the requested repositories added:
-
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
@@ -53,17 +51,21 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
 
 ## 📚 Repositories
-- [microsoft-predictive-ai-lab](https://github.com/VamsiKethu/microsoft-predictive-ai-lab) (Public)
-- [microsoft-azure-ai-predictive-solutions](https://github.com/VamsiKethu/microsoft-azure-ai-predictive-solutions) (Public)
-- [hanumaheavy.agentsInfinite](https://github.com/VamsiKethu/hanumaheavy.agentsInfinite) (Private)
-- [autmavoice.agentsInfinite](https://github.com/VamsiKethu/autmavoice.agentsInfinite) (Private)
-- [automacrew.agentsInfinite](https://github.com/VamsiKethu/automacrew.agentsInfinite) (Private)
-- [automalite.agentsInfinite](https://github.com/VamsiKethu/automalite.agentsInfinite) (Private)
-- [automa.agentsInfinite](https://github.com/VamsiKethu/automa.agentsInfinite) (Private)
-- [readmeContracts](https://github.com/VamsiKethu/readmeContracts) (Public)
+To disable hyperlinks for the repositories in your README, you can format the repository names as plain text rather than using Markdown link syntax. Here’s the modified section of your README with the hyperlinks removed:
+
+## 📚 Repositories
+microsoft-predictive-ai-lab (Public)
+microsoft-azure-ai-predictive-solutions (Public)
+hanumaheavy.agentsInfinite (Private)
+autmavoice.agentsInfinite (Private)
+automacrew.agentsInfinite (Private)
+automalite.agentsInfinite (Private)
+automa.agentsInfinite (Private)
+readmeContracts (Public)
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
+
