@@ -50,18 +50,16 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 [ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
 
-## 📚 Repositories
-To disable hyperlinks for the repositories in your README, you can format the repository names as plain text rather than using Markdown link syntax. Here’s the modified section of your README with the hyperlinks removed:
 
 ## 📚 Repositories
-microsoft-predictive-ai-lab (Public)
-microsoft-azure-ai-predictive-solutions (Public)
-hanumaheavy.agentsInfinite (Private)
-autmavoice.agentsInfinite (Private)
-automacrew.agentsInfinite (Private)
-automalite.agentsInfinite (Private)
-automa.agentsInfinite (Private)
-readmeContracts (Public)
+- microsoft-predictive-ai-lab (Public)
+- microsoft-azure-ai-predictive-solutions (Public)
+- hanumaheavy.agentsInfinite (Private)
+- autmavoice.agentsInfinite (Private)
+- automacrew.agentsInfinite (Private)
+- automalite.agentsInfinite (Private)
+- automa.agentsInfinite (Private)
+- readmeContracts (Public)
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
