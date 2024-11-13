@@ -6,9 +6,6 @@
 
 # Professional Profile
 
-# Vamsi Kethu
-## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
-
 Experienced technology leader with 16+ years in IT and automation, specializing in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 and 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
 
 I bridge 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 to create 𝗵𝘂𝗺𝗮𝗻-𝗳𝗶𝗿𝘀𝘁 𝗔𝗜 experiences.
