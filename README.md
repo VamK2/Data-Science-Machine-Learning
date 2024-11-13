@@ -66,10 +66,10 @@ Production-ready End-to-end AI solutions spanning neural networks, computer visi
 #### 🧠 Generative AI
 Implementation of cutting-edge generative models including large language models, diffusion models, and transformers. Features practical applications in text generation, image synthesis, and conversational AI.
 
-#### 🎨 [PromptAlchemy](https://poe.com/PromptAlchemy)
-PromptAlchemy is designed to seamlessly transform textual descriptions into detailed prompts for image generation AIs and well-structured articles, breaking creative blocks. This tool enhances the creative process by providing tailored, AI-generated prompts and content structures.
+#### 🎨 [PromptAlchemy-AI](https://poe.com/PromptAlchemy)
+PromptAlchemy Generative AI Assistant is developed to seamlessly transform textual descriptions into detailed prompts for image generation AIs and well-structured articles, breaking creative blocks. This tool enhances the creative process by providing tailored, AI-generated prompts and content structures.
 #### 🖼️ [Logo-Alchemy-AI](https://poe.com/Logo-Alchemy-AI)
-An AI assistant specialized in generating visually engaging artistic and cinematic quality company logos based on textual descriptions provided by users. Logo-Alchemy-AI's primary goal is to create intuitive and meaningful visual representations that accurately capture the essence of the user's input, revolutionizing the logo design process.
+A Generative AI assistant specialized in generating visually engaging artistic and cinematic quality company logos based on textual descriptions provided by users. Logo-Alchemy-AI's primary goal is to create intuitive and meaningful visual representations that accurately capture the essence of the user's input, revolutionizing the logo design process.
 
 ### 🎯 AI and Machine Learning Solutions
 
