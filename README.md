@@ -6,20 +6,19 @@
 
 # Professional Profile
 
-Experienced technology leader with 16+ years in IT and automation, specializing in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 and 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
+Experienced technology leader with 16+ years in IT and automation, specializing in **Artificial Intelligence** and **Machine Learning solutions**.
 
-I bridge 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 to create 𝗵𝘂𝗺𝗮𝗻-𝗳𝗶𝗿𝘀𝘁 𝗔𝗜 experiences.
+I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create **human-first AI** experiences.
 
-𝗞𝗲𝘆 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
-• 6+ years in 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 and 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 model development, 3+ years in 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜
-• Seamless integration of open-source projects with enterprise-grade platforms
-• Extensive experience in 𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹, 𝗙𝗲𝗱𝗲𝗿𝗮𝗹, and 𝗦𝘁𝗮𝘁𝗲 𝗴𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 projects
-• Implementation of 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁'𝘀 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗔𝗜 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
+**Key Expertise**:
+- 6+ years in **Artificial Intelligence** and **Machine Learning** model development, 3+ years in **Generative AI**
+- Seamless integration of open-source projects with enterprise-grade platforms
+- Extensive experience in **Commercial**, **Federal**, and **State government** projects
+- Implementation of **Microsoft's Responsible AI principles**: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
-𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆:
-Fair Credit Reporting Act (𝗙𝗖𝗥𝗔), 𝗛𝗜𝗣𝗔𝗔, 𝗣𝗜𝗜 (Personally Identifiable Information), 𝗜𝗻𝘁𝗲𝗹𝗹𝗲𝗰𝘁𝘂𝗮𝗹 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝘆, 𝗣𝗖𝗜 (Payment Card Industry), 𝗔𝗗𝗔 (Americans with Disabilities Act), 𝗞𝗬𝗖 (Know Your Customer), 𝗔𝗠𝗟 (Anti-Money Laundering), 𝗔𝗜 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗢𝗪𝗔𝗦𝗣 𝗴𝘂𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀, Collaborating with 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝗔𝘂𝗱𝗶𝘁𝘀 and 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗔𝗜 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀 𝗮𝗻𝗱 𝗦𝘁𝗮𝗻𝗱𝗮𝗿𝗱.
+**Compliance Proficiency**: Fair Credit Reporting Act (**FCRA**), **HIPAA**, **PII** (Personally Identifiable Information), **Intellectual Property**, **PCI** (Payment Card Industry), **ADA** (Americans with Disabilities Act), **KYC** (Know Your Customer), **AML** (Anti-Money Laundering), **AI Security**, **OWASP guidelines**, Collaborating with **External Audits** and **Microsoft Responsible AI Principles and Standard**.
 
-Committed to 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗔𝗜 practices and empowering visionary leaders in product development and commercial finance sectors.
+Committed to **ethical AI** practices and empowering visionary leaders in product development and commercial finance sectors.
 
 Passionate about driving digital transformation while adhering to highest standards of security, privacy, and regulatory compliance. Skilled in collaborating with external auditors and implementing robust safeguards across all projects.
 
