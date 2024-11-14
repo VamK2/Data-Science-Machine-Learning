@@ -20,7 +20,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - Experience in Health Care, Life Insurance, Consumer & Retail Billing, Fraud detection, Customer Churn, loan defaulter prediction, ACH, NACHA, Credit Card Processing and Banking domains.
 - Implementation of Microsoft's Responsible AI principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 - Vast data analytics experience using Microsoft AutoML, Knime, RapidMiner, DataRobot, IBM Cognos, OFS, Tableau, and MS SQL.
-- Microsoft Azure AI certified with over 245 badges and 57+ trophies**. IBM Cognos Certified. 13 TOSCA Certifications.
+- Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Certified. 13 TOSCA Certifications.
 
 ## Compliance Proficiency:
 HIPAA, ADA, PII (Personally Identifiable Information), IP (Intellectual Property), PCI (Payment Card Industry), FCRA (Fair Credit Reporting Act), GBLA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), BSA (Bank Secrecy Act), KYC (Know Your Customer), AML (Anti-Money Laundering), GDPR (General Data Protection Regulation), Data Privacy, Data Security, AI Security, OWASP guidelines, external audits, and Microsoft Responsible AI Principles and Standards.
