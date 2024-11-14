@@ -79,7 +79,7 @@ Implementation of cutting-edge generative models including large language models
 
 #### 🎨 [PromptAlchemy-AI](https://poe.com/PromptAlchemy)
 A Generative AI Assistant is developed to seamlessly transform textual descriptions into detailed prompts for image generation AIs and well-structured articles, breaking creative blocks. This tool enhances the creative process by providing tailored, AI-generated prompts and content structures.
-#### 🖼️ [Logo-Alchemy-AI](https://poe.com/Logo-Alchemy-AI)
+#### 🖼️ [LogoAlchemy-AI](https://poe.com/Logo-Alchemy-AI)
 A Generative AI assistant specialized in generating visually engaging artistic and cinematic quality company logos based on textual descriptions provided by users. Logo-Alchemy-AI's primary goal is to create intuitive and meaningful visual representations that accurately capture the essence of the user's input, revolutionizing the logo design process.
 
 ### 🎯 AI and Machine Learning Solutions
