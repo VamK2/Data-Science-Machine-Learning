@@ -1,6 +1,8 @@
 ## Name: applied-ai-solutions
 ### Description: Production-ready End-to-end AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
 
+[![Vamsi Kethu's LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu?trk=profile-badge)
+
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
