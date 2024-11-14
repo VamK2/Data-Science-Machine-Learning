@@ -16,11 +16,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - Extensive experience in **Commercial**, **Federal**, and **State government** projects
 - Implementation of **Microsoft's Responsible AI principles**: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 
-**Compliance Proficiency**: Fair Credit Reporting Act (**FCRA**), **HIPAA**, **PII** (Personally Identifiable Information), **Intellectual Property**, **PCI** (Payment Card Industry), **ADA** (Americans with Disabilities Act), **KYC** (Know Your Customer), **AML** (Anti-Money Laundering), **AI Security**, **OWASP guidelines**, Collaborating with **External Audits** and **Microsoft Responsible AI Principles and Standard**.
-
-Committed to **ethical AI** practices and empowering visionary leaders in product development and commercial finance sectors.
-
-Passionate about driving digital transformation while adhering to highest standards of security, privacy, and regulatory compliance. Skilled in collaborating with external auditors and implementing robust safeguards across all projects.
+**Compliance Proficiency**: Fair Credit Reporting Act 
 
 ### 🎓 Education & Certifications
 - Master of Science in Computer Information Systems
