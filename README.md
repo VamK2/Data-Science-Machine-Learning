@@ -34,8 +34,6 @@ Committed to **ethical AI practices** and empowering teams with vision. Passiona
 
 I thrive on challenges and am keen to connect with like-minded professionals and leaders aiming to harness AI and ML innovations to redefine industries. 
 
-**Compliance Proficiency**: Fair Credit Reporting Act 
-
 ### 🎓 Education & Certifications
 - Master of Science in Computer Information Systems
 - MBA in Finance and Marketing
