@@ -17,7 +17,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - **Integrating open-source projects with AWS, Azure, and GCP**.
 - **Extensive experience in Commercial, Federal, and State government projects**, including Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, and interstate investigation systems.
 - **Expertise in Computer Vision services** AFS Vision, GIS, Esri, PolarisWeb, and ArcGIS.
-- **Experience in Health care, Life Insurance, Consumer & Retail Billing, Banking, Fraud detection, Customer Churn, loan defaulter prediction**, ACH, NACHA, Credit Card Processing domains.
+- **Experience in Health care, Life Insurance, Consumer & Retail Billing, Banking, Fraud detection, Customer Churn, loan defaulter prediction, ACH, NACHA, Credit Card Processing domains**.
 - **Implementation of Microsoft's Responsible AI principles**: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
 - **Vast data analytics experience using Microsoft AutoML, Knime, RapidMiner, DataRobot, IBM Cognos**, OFS, Tableau, and MS SQL.
 - **Microsoft Azure AI certified with over 245 badges and 57+ trophies**. IBM Cognos Certified. 13 TOSCA Certifications.
